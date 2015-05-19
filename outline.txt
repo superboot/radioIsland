@@ -1,0 +1,67 @@
+This is the outline file for the new game idea "Radio Island". Radio Island is a smashing together of the games Myst and Uplink.
+
+Locations
+Radio Island Research Lab
+    Server Room
+
+Radio Island
+    Taco truck
+
+
+
+People
+Player (Possibly an heir to the island) 
+Previous care taker
+Interum care taker (leaves soon)
+AI in the computer (possible, arrives later in the game, like the rouge hackers in uplink)
+
+
+Actions
+Open (door, etc)
+Turn on/off
+go north/sout/east/west
+go strait/back/left/right
+Use computer
+
+Computer programs
+cron
+at
+shell
+top
+free
+ps
+netstat
+ifconfig
+su
+kill
+cat
+less
+df
+du
+
+
+
+Items
+#2 philips screwdriver (let's face it: you can take anything apart with one...)
+Laptop
+Cell phone
+Radio
+Wifi
+Raspberry-pi
+
+
+
+Goals
+Look arround
+Figure out why the lights are off in the main living area.
+
+
+
+
+
+Roadblocks
+
+
+Key points in the game
+
+
