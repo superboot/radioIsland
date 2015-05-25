@@ -183,6 +183,13 @@ class NPC(World):
     pass
 
 ## Computer related classes ##
+class computer(world):
+    def __init__(self):
+        pass
+        
+
+
+
 class filesystem(World):
     def __init__(self):
         pass
